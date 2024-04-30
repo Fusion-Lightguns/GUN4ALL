@@ -1,9 +1,11 @@
+This is a fork of [SeongGino Gun4ALL](https://github.com/SeongGino/ir-light-gun-plus) which is based on the [Prow Enhanced fork](https://github.com/Prow7/ir-light-gun), which in itself is based on the 4IR Beta "Big Code Update" [SAMCO project](https://github.com/samuelballantyne/IR-Light-Gun)
+
+
+
 ###### If you enjoy or if my work's helped you in any way,
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z5NNXWL)
 # IR-GUN4ALL - An Expanded Arduino-powered Light Gun System 
 ##### Original/more accurate title: SAMCO Enhanced+ (Plus, now with added pew-pews!)
-
-Based on the [Prow Enhanced fork](https://github.com/Prow7/ir-light-gun), which in itself is based on the 4IR Beta "Big Code Update" [SAMCO project](https://github.com/samuelballantyne/IR-Light-Gun)
 
 ###### (new video demonstration coming soon!)
 
