@@ -37,10 +37,7 @@ I liked Gun4ALL but wanted things a little different. Thus P.I.G.S was born.
 ## Required Parts
 - An Arduino-compatible microcontroller based on an **RP2040**.
   * [Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/) *(cheapest, most pins available)
-    
-    OR
-    
-  * [Kee Boar KB2040](https://www.adafruit.com/product/5302) *(cheaper, Pro Micro form factor)
+  * 
 - **DFRobot IR Positioning Camera SEN0158:**
    * [Mouser (US Distributor)](https://www.mouser.com/ProductDetail/DFRobot/SEN0158?qs=lqAf%2FiVYw9hCccCG%2BpzjbQ%3D%3D) | [DF-Robot (International)](https://www.dfrobot.com/product-1088.html) | [Mirrors list](https://octopart.com/sen0158-dfrobot-81833633)
 - **4 IR LED emitters:**
