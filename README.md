@@ -21,7 +21,7 @@
 - Buy prebuilt Lightguns(When in stock) [Fusion Lightguns](https://www.fusionlightguns.com/shop/Light-Guns/6?page=1&limit=30&sort_by=name&sort_order=asc)
 
 ## Prebuilt Users
-- If you got your gun from [Fusion Lightguns](https://www.fusionlightguns.com/) AFTER June,2024, please see [Lightgun Setup](https://www.fusionlightguns.com/setup).
+- If you got your gun from [Fusion Lightguns](https://www.fusionlightguns.com/) AFTER June 2024, please see [Lightgun Setup](https://www.fusionlightguns.com/setup).
 
 ## Thanks:
 * SeongGino for a GREAT base to work from.
