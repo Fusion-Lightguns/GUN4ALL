@@ -17,7 +17,7 @@ Feel free to mod, fork, create better, complain, reports errors etc.
  - [Parts](#parts)
  - [Pin Outs](#pin-outs)
  - [Building](#building)
- - [Button Layouts](#default-buttons)
+ - [Button Layouts](#button-layout)
 
 ## SETUP
 - Download the latest release for your board from [releases](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Gun-System/releases)
@@ -49,7 +49,7 @@ When in pause mode below [Pause Mode Buttons](#pause-mode-buttons) become active
 Calibration can be cancelled during any step by pressing **Start** or **Select**. The gun will return to pause mode without saving if you cancel the calibration.
 Pause Mode can be exited at anytime by pressing **Reload Button**. 
 
-## Pause Modes Buttons
+## Pause Mode Buttons
 
 - Trigger --- Begin Calibration 
 
