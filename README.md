@@ -18,7 +18,7 @@
 - Open source and always FREE.
 - Easy & fast calibration.
 - Offical custom PCBs, breakouts etc. You can buy --COMING SOON-- 
-- Buy prebuilt Lightguns(When in stock) [Fusion Lightguns](https://www.fusionlightguns.com/shop/Light-Guns/6?page=1&limit=30&sort_by=name&sort_order=asc)
+- Buy prebuilt or  have me mod your Lightguns(When in stock) [Fusion Lightguns](https://www.fusionlightguns.com/shop/Light-Guns/6?page=1&limit=30&sort_by=name&sort_order=asc)
 
 ## FYI ##
 - These are Infared Lightguns
