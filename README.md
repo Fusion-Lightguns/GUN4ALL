@@ -17,6 +17,8 @@
 - Drag N Drop firmware install.
 - Open source and always FREE.
 - Easy & fast calibration.
+- Offical custom PCBs, breakouts etc. You can buy --COMING SOON-- 
+- Buy prebuilt Lightguns(When in stock) [Fusion Lightguns](https://www.fusionlightguns.com/shop/Light-Guns/6?page=1&limit=30&sort_by=name&sort_order=asc)
 
 ## Thanks:
 * SeongGino for a great base to work from.
