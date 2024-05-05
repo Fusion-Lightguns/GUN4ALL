@@ -5,7 +5,7 @@
 - I liked Gun4ALL but wanted things a little different. Thus P.I.G.S was born.
 
 ## DIY & Changelog ##
-- For DIY instructions please see: [DIY Manual](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Gun-System/blob/plus/DIY/DIY--Manual.md)
+- For DIY instructions please see: [DIY Manual](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Gun-System/blob/plus/DIY/ReadMe.md)
 - For changelog & prevoius authors changes see [Changelog](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Gun-System/blob/plus/Changelog.md)
 
 ## Features: ##
