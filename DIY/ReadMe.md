@@ -11,7 +11,7 @@ Feel free to mod, fork, create better, complain, reports errors etc.
 
 ## Table of Contents:
  - [Intial Setup](#setup)
- - [IR Emitter Setup](#ir-led-setup)
+ - [IR LED Setup](#ir-led-setup)
  - [Calibration](#calibration)
  - [Pause Mode Buttons](#pause-mode-buttons)
  - [Parts](#parts)
