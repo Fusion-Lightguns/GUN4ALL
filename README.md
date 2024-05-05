@@ -20,6 +20,26 @@
 - Offical custom PCBs, breakouts etc. You can buy --COMING SOON-- 
 - Buy prebuilt Lightguns(When in stock) [Fusion Lightguns](https://www.fusionlightguns.com/shop/Light-Guns/6?page=1&limit=30&sort_by=name&sort_order=asc)
 
+## FYI ##
+- These are Infared Lightguns
+- They use 4 IR LEDs to "emulate" a controller/mouse/keyboard input.
+- These guns work on Windows & Linux.
+
+**Tested Working Frontends**
+  - Frontends
+  - Retrobat-------------------------Windows PC
+  - Retropie-------------------------Rasp Pi 4
+  - Recallbox------------------------Rasp Pi 4
+  - Batocera-------------------------S905X3 TV Box, PC, & Pi 4
+ 
+ **Tested Working Emulators**
+  - Retroarch
+  - Dolphin
+  - M.A.M.E
+  - Daphne/Singe
+  - Duckstation
+  - TechnoParrot
+
 ## Prebuilt Users
 - If you got your gun from [Fusion Lightguns](https://www.fusionlightguns.com/) AFTER June 2024, please see [Lightgun Setup](https://www.fusionlightguns.com/setup).
 
