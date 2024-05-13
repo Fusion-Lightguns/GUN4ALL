@@ -1,5 +1,7 @@
 ## P.I.G.S (Pico Infared Gun System) ##
 
+![pigs--logo](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Infared-Gun-System/assets/118452807/9a226ad4-dd55-4cce-8a96-86e39affb5dc)
+
 ## Credits/History ##
 - Orginally I started with [Prow Enhanced fork](https://github.com/Prow7/ir-light-gun) to [SAMCO's project](https://github.com/samuelballantyne/IR-Light-Gun), added solenoid & rumble support & misc stuff. See it here [Fusion Prow7 Edits](https://github.com/Fusion-Lightguns/Fusion-Light-Gun). Then I found & forked [SeongGino's Gun4ALL](https://github.com/SeongGino/ir-light-gun-plus) which is based on the [Prow Enhanced fork](https://github.com/Prow7/ir-light-gun), which in itself is based on the 4IR Beta "Big Code Update" [SAMCO's project](https://github.com/samuelballantyne/IR-Light-Gun)
 - I liked Gun4ALL but wanted things a little different. Thus P.I.G.S was born.
