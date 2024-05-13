@@ -1,7 +1,7 @@
  # P.I.G.S DIY Manual Version 1.00 #
  ## Intro 
  
-P.I.G.S is a open source Pico lightgun system .
+P.I.G.S is a open source Pico Infared lightgun system .
 Feel free to mod, fork, create better, complain, reports errors etc.
 
 ## FYI
@@ -112,7 +112,7 @@ Pause Mode can be exited at anytime by pressing **Reload Button**.
 
 ## Building 
 
-- THis is a lot for a lot for this space lol. So for building instructions see: [Fusion Website DIY](https://www.fusionlightguns.com/diy)
+- This is ALOT for for this space lol. So for building instructions see: [Fusion Website DIY](https://www.fusionlightguns.com/diy)
  
 ## Button Layout
 
