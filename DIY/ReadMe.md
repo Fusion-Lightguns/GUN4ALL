@@ -8,6 +8,7 @@ Feel free to mod, fork, create better, complain, reports errors etc.
 
 - P.I.G.S is calibrated & configured in "Pause Mode".
 - Pi Pico & Kee Boar 2040 are offically supported.
+- For compiling the code yourself please see [Compiling-Tips](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Infared-Gun-System/blob/plus/DIY/Compiling-Tips.md)
 
 ## Table of Contents:
  - [Intial Setup](#setup)
