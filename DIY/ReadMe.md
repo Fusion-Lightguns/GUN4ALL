@@ -47,8 +47,8 @@ When in pause mode below [Pause Mode Buttons](#pause-mode-buttons) become active
 7. Pull the **Trigger** to finish and return to run mode. Values will apply to the currently selected profile in memory.
 8. After confirming the calibration is good, enter pause mode and press Start and Select to save the calibration to non-volatile memory. These will be saved, as well as the active profile, to be restored on replug/reboot.
  
-Calibration can be cancelled during any step by pressing **Start** or **Select**. The gun will return to pause mode without saving if you cancel the calibration.
-Pause Mode can be exited at anytime by pressing **Reload Button**. 
+Calibration can be cancelled during any step by pressing **Calibrate**. The gun will return to pause mode without saving if you cancel the calibration.
+Pause Mode can be exited at anytime by pressing **Pump Button**. 
 
 ## Pause Mode Buttons
 
@@ -146,6 +146,13 @@ Exit Retropie F4 Key:
 Open MAME Menu Tab Key:
 - Press Calibrate & B at the same time.
 
+- Trigger - Mouse 1 ----- Gamepad Right Trigger
+- Up ------ Up ---------- Gamepad Down 
+- Left ---- Left -------- Gamepad Left 
+- Right --- Right ------- Gamepad Right 
+- Pedal --- Mouse3 ------ Gamepad X
+- Pump ---- Mouse2 ------ Gamepad Y
+
  **Player 1**
 
 - A ------- Enter ------- Gamepad A 
@@ -153,11 +160,6 @@ Open MAME Menu Tab Key:
 - C ------- Mouse5 ------ Gamepad Left Bumper
 - Start --- #1 ---------- Gamepad Start 
 - Select -- #5 ---------- Gamepad Select 
-- Up ------ Up ---------- Gamepad Down 
-- Left ---- Left -------- Gamepad Left 
-- Right --- Right ------- Gamepad Right 
-- Pump ---- Mouse3 ------ Gamepad X
-- Reload -- Mouse2 ------ Gamepad Y
 
    **Player 2**
 
@@ -166,11 +168,6 @@ Open MAME Menu Tab Key:
 - C ------- Mouse5 ------ Gamepad Left Bumper
 - Start --- #1 ---------- Gamepad Start 
 - Select -- #5 ---------- Gamepad Select 
-- Up ------ Up ---------- Gamepad Down 
-- Left ---- Left -------- Gamepad Left 
-- Right --- Right ------- Gamepad Right 
-- Pump ---- Mouse3 ------ Gamepad X
-- Reload -- Mouse2 ------ Gamepad Y
 
  **Player 3**
 
@@ -179,11 +176,7 @@ Open MAME Menu Tab Key:
 - C ------- Mouse5 ------ Gamepad Left Bumper
 - Start --- #1 ---------- Gamepad Start 
 - Select -- #5 ---------- Gamepad Select 
-- Up ------ Up ---------- Gamepad Down 
-- Left ---- Left -------- Gamepad Left 
-- Right --- Right ------- Gamepad Right 
-- Pump ---- Mouse3 ------ Gamepad X
-- Reload -- Mouse2 ------ Gamepad Y
+
 
  **Player 4**
 
@@ -192,8 +185,4 @@ Open MAME Menu Tab Key:
 - C ------- Mouse5 ------ Gamepad Left Bumper
 - Start --- #1 ---------- Gamepad Start 
 - Select -- #5 ---------- Gamepad Select 
-- Up ------ Up ---------- Gamepad Down 
-- Left ---- Left -------- Gamepad Left 
-- Right --- Right ------- Gamepad Right 
-- Pump ---- Mouse3 ------ Gamepad X
-- Reload -- Mouse2 ------ Gamepad Y
+
