@@ -26,12 +26,10 @@
 
 **Version 1.00**
 - Added **playerABtn** & **playerBBtn** to player variables.
-- Replaced **EscapeKeyBtn** with **ExitKeyBtn(F4)** . Now yo ucan exit Retropie to command line or pull up test menu in MAME.
+- Replaced **EscapeKeyBtn** with **ExitKeyBtn(F4)** . Now you can exit Retropie to command line .
+- Added **MenuKeyBtn** and all the stuff. This is so you can open MAME menu if you want to.
 - Uploading each player seperately, with pre set pid, vid & manufacturers.
-- Removed **HomeBtn** from everywhere. Not needed imo.
-- Renamed **PumpBtn** to **ReloadBtn**
 - Reworked a Gamepad mappings.
 - IMO made pause mode easier to understand and control.
-- Dropping support for everything **EXCEPT** Pico & KeeBoar 2040.
 - Made calibrate hold to activate always. 
 
