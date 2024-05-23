@@ -161,7 +161,7 @@ Open MAME Menu Tab Key:
 
    **Player 2**
 
-- A ------- Left Shift ------- Gamepad A 
+- A ------- W ------- Gamepad A 
 - B ------- Backspace ------ Gamepad B 
 - C ------- Mouse5 ------ Gamepad Left Bumper
 - Start --- #1 ---------- Gamepad Start 
@@ -174,7 +174,7 @@ Open MAME Menu Tab Key:
 
  **Player 3**
 
-- A ------- Left Control ------- Gamepad A 
+- A ------- A ------- Gamepad A 
 - B ------- Page UP ------ Gamepad B 
 - C ------- Mouse5 ------ Gamepad Left Bumper
 - Start --- #1 ---------- Gamepad Start 
@@ -187,7 +187,7 @@ Open MAME Menu Tab Key:
 
  **Player 4**
 
-- A ------- Left Alt ------- Gamepad A 
+- A ------- S ------- Gamepad A 
 - B ------- Page Down ------ Gamepad B 
 - C ------- Mouse5 ------ Gamepad Left Bumper
 - Start --- #1 ---------- Gamepad Start 
