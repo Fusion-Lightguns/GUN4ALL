@@ -1,4 +1,4 @@
- # P.I.G.S DIY Manual Version 1.00 #
+ # P.I.G.S DIY Manual Version 1.01 #
  ## Intro 
  
 P.I.G.S is a open source Pico Infared lightgun system .
@@ -52,27 +52,48 @@ Pause Mode can be exited at anytime by pressing **Reload Button**.
 
 ## Pause Mode Buttons
 
-- Trigger --- Begin Calibration 
+Enter Pause Mode:
+- Hold Calibrate for 3 seconds
 
-- A+Left ---- Offscreen Button Toggle
-- A+Right --- Auto Fire Mode Toggle
-- A+Up ------ Rumble Toggle Switch
-- A+Down ---- Solenoid Toggle Switch  
+Exit Pause Mode:
+- Pump.
 
-- B+Up ------ Camera Sensitivity Up
-- B+Down ---- Camera Sensitivity Down
-- B+Start --- Normal Mode
-- B+Select -- Average Mode
+Cancel Calibration:
+- Calibrate Button.
 
+Skip the center calibration:
+- Up Button
 
+Save preferences to non-volatile memory:
+- Press Start & Select at the same time
+
+Increase IR sensitivity:
+- Press B & Up at the same time.
+
+Decrease IR sensitivity:
+- Press B & Down at the same time.
+
+Select a run mode:
+Run Mode Normal
+- Press B & Start at the same time.
+Average Mode
+- Press B & Select at the same time.
+
+Toggle offscreen button mode in software:
+- Press A & Left at the same time
+  
+Toggle offscreen button mode in software:
+- Press A & Right at the same time.
+  
+Toggle rumble in software:
+- Press A & Up at the same time.
+  
+Toggle solenoid in software:
+- Press A & Down at the same time.
 - Up -------- Select "TV Fisheye Lens" Profile
 - Down ------ Select "TV Wide-angle Lens" Profile
 - Left ------ Select "TV" Profile 
 - Right ----- Select "Monitor" Profile
-
-- Start or Select -- Cancel Calibration
-
-- Reload - Exit pause mode
 
 ## Parts 
 
@@ -116,6 +137,14 @@ Pause Mode can be exited at anytime by pressing **Reload Button**.
 - This is ALOT for for this space lol. So for building instructions see: [Fusion Website DIY](https://www.fusionlightguns.com/diy)
  
 ## Button Layout
+
+**Universal**
+
+Exit Retropie F4 Key:
+- Press Calibrate & A at the same time
+
+Open MAME Menu Tab Key:
+- Press Calibrate & B at the same time.
 
  **Player 1**
 
