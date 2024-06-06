@@ -4,9 +4,10 @@
 
 ## Info
 
-- P.I.G.S  is designed to be all in one open source Light Gun eco system. It has [PCBs](https://github.com/Fusion-Lightguns/P.I.G.S-PCBs), [GUI (general user interface)](https://github.com/Fusion-Lightguns/P.I.G.S-GUI), prebuilt Light Guns by [Fusion LightGuns](fusionlightguns.com), [DIY instructions](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Infared-Gun-System/tree/plus/DIY), [build videos](https://www.youtube.com/channel/UCWwdJLmLOawdj0-UQUi_1tA) & more
+- P.I.G.S  is designed to be all in one open source Light Gun eco system. It has [PCBs](https://github.com/Fusion-Lightguns/P.I.G.S-PCBs), [GUI (general user interface)](https://github.com/Fusion-Lightguns/P.I.G.S-GUI), prebuilt Light Guns by [Fusion LightGuns](fusionlightguns.com), [DIY instructions](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Infared-Gun-System/tree/plus/DIY), [build videos](https://www.youtube.com/channel/UCWwdJLmLOawdj0-UQUi_1tA), [3D printable lightguns](https://www.thingiverse.com/fusion_lightguns/designs), [3D printable LED cases](https://www.thingiverse.com/thing:6119123), custom boards(LG2040) & more!!!
 - Designed for multi player useage on many frontends . I have a few setup & test all the time.
-- Designed from over a year of messing with Light Guns, code and parts.
+- Designed from over a year of messing with Lightguns, code and parts.
+
 
 ## Credits/History ##
 - Orginally I started with [Prow Enhanced fork](https://github.com/Prow7/ir-light-gun) to [SAMCO's project](https://github.com/samuelballantyne/IR-Light-Gun), added solenoid & rumble support & misc stuff. See it here [Fusion Prow7 Edits](https://github.com/Fusion-Lightguns/Fusion-Light-Gun). Then I found & forked [SeongGino's Gun4ALL](https://github.com/SeongGino/ir-light-gun-plus) which is based on the [Prow Enhanced fork](https://github.com/Prow7/ir-light-gun), which in itself is based on the 4IR Beta "Big Code Update" [SAMCO's project](https://github.com/samuelballantyne/IR-Light-Gun)
@@ -34,6 +35,7 @@
 - They use 4 IR LEDs to "emulate" a controller/mouse/keyboard input.
 - These guns work on Windows & Linux.
 
+
 **Tested Working Frontends**
   - Frontends
   - Retrobat-------------------------Windows PC
@@ -56,4 +58,3 @@
 * SeongGino for a GREAT base to work from.
 * Samuel Ballantyne, for his SAMCO project.
 * Prow7, for improving SAMCOs project.
-  
