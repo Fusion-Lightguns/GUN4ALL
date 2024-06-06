@@ -31,5 +31,6 @@
 - Uploading each player seperately, with pre set pid, vid & manufacturers.
 - Reworked a Gamepad mappings.
 - IMO made pause mode easier to understand and control.
-- Made calibrate hold to activate always. 
+- Made calibrate hold to activate always.
+- Added general RP2040 layout same as pico. This is to support my LG2040 for time being. Its same pin out & everything as a pico.
 
