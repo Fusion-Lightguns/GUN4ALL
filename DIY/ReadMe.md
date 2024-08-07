@@ -35,6 +35,8 @@ Feel free to mod, fork, create better, complain, reports errors etc.
 ![pico diy](https://github.com/user-attachments/assets/cf655e40-eaf2-4fca-ba93-14efd3138d28)
 
 ## IR LED Setup
+![LED IR SETUP](https://github.com/user-attachments/assets/eda321df-f2b3-4665-8428-fc44db491444)
+
 - [LED Cases Install Video](https://www.youtube.com/watch?v=8xgEFVKnlrg)
 
 ## Calibration
