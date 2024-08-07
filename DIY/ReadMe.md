@@ -32,13 +32,7 @@ Feel free to mod, fork, create better, complain, reports errors etc.
 - When gun first plugged in it will auto go into calibrate mode. Calibrate for your screen with [calibrate instructions](#calibration)
 
 ## Pin Outs
-
- **Pi Pico**
-![pico diy](https://github.com/user-attachments/assets/5af2e8b8-c008-4686-bcf8-aa89f79d29ef)
-
- **Kee Boar 2040**
-  - COMING SOON
-
+![pico diy](https://github.com/user-attachments/assets/cf655e40-eaf2-4fca-ba93-14efd3138d28)
 
 ## IR LED Setup
 - [LED Cases Install Video](https://www.youtube.com/watch?v=8xgEFVKnlrg)
