@@ -76,13 +76,6 @@ Feel free to mod, fork, create better, complain, reports errors etc.
 ## Button Layout
 
 **Universal**
-
-Exit Retropie F4 Key:
-- Press Calibrate & A at the same time
-
-Open MAME Menu Tab Key:
-- Press Calibrate & B at the same time.
-
 - Trigger - Mouse 1 ----- Gamepad Right Trigger
 - Up ------ Up ---------- Gamepad Down 
 - Left ---- Left -------- Gamepad Left 
@@ -126,16 +119,20 @@ Open MAME Menu Tab Key:
 
 ## Calibration
 
+Easiest way is to open P.I.G.S GUI and calibrate in it.
+
+Manual/No GUI Calibration
+
 Press & hold Calibrate to enter pause mode.
 When in pause mode below [Pause Mode Buttons](#pause-mode-buttons) become active.
-1. Press & hold **Calibration Button** for 3 seconds, while no IR points are in sight to enter pause mode.
-2. Press a dpad button to select a profile unless you want to calibrate the current profile.
-3. Pull the **Trigger** (or select "Calibrate current profile" in simple pause) to begin calibration.
-4. Shoot the pointer at center of the screen and press the trigger while keeping a steady aim.
-5. The mouse should lock to the vertical axis. Use the **A**/**B** buttons (can be held down) to adjust the mouse vertical range. **A** will increase and **B** will decrease. Track the pointer at the top and bottom edges of the screen while adjusting.
-6. Pull the **Trigger** for horizontal calibration. The mouse should lock to the horizontal axis. Use the **A**/**B** buttons (can be held down) to adjust the mouse horizontal range. **A** will increase and **B** will decrease. Track the pointer at the left and right edges of the screen while adjusting.
-7. Pull the **Trigger** to finish and return to run mode. Values will apply to the currently selected profile in memory.
-8. After confirming the calibration is good, enter pause mode and press Start and Select to save the calibration to non-volatile memory. These will be saved, as well as the active profile, to be restored on replug/reboot.
+1. Press & hold **Calibration Button** for 5 seconds, while no IR points are in sight to enter pause mode.
+2. Pull the **Trigger** to begin calibration.
+3. Aim the pointer at center of the screen, then pull the **Trigger** while keeping a steady aim.
+4. The mouse should lock to the vertical axis. Move up/down till centered then pull **Trigger**.
+5. The mouse should lock to the horizontal axis. Move left/right till centered then pull **Trigger**.
+6. Pull the **Trigger** to finish and return to run mode. Values will apply to the currently selected profile in memory.
+7. After confirming the calibration is good, enter pause mode and press Start and Select to save the calibration to non-volatile memory. These will be saved, as well as the active profile, to be restored on replug/reboot.
+
  
 Calibration can be cancelled during any step by pressing **Calibrate**. The gun will return to pause mode without saving if you cancel the calibration.
 Pause Mode can be exited at anytime by pressing **Pump Button**. 
@@ -164,24 +161,20 @@ Decrease IR sensitivity:
 - Press B & Down at the same time.
 
 Select a run mode:
+
 Run Mode Normal
 - Press B & Start at the same time.
+- 
 Average Mode
 - Press B & Select at the same time.
 
 Toggle offscreen button mode in software:
 - Press A & Left at the same time
-  
-Toggle offscreen button mode in software:
-- Press A & Right at the same time.
-  
+
 Toggle rumble in software:
 - Press A & Up at the same time.
   
 Toggle solenoid in software:
 - Press A & Down at the same time.
-- Up -------- Select "TV Fisheye Lens" Profile
-- Down ------ Select "TV Wide-angle Lens" Profile
-- Left ------ Select "TV" Profile 
-- Right ----- Select "Monitor" Profile
+
 
