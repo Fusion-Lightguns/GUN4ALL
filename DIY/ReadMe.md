@@ -1,4 +1,4 @@
- # P.I.G.S DIY Manual Version 2.00 #
+ # P.I.G.S DIY Manual Ver 2.11 #
  ## Intro 
  
 P.I.G.S is a open source Pico Infared lightgun system .
@@ -25,13 +25,14 @@ Feel free to mod, fork, create better, complain, reports errors etc.
 ## SETUP
 - Download the latest release for your board from [releases](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Gun-System/releases)
 - Grab your Pico or Kee Boar and cord.
-- Press & hold bootloader on Pico . Then plug it in.
+- Press & hold bootloader on Pico. - Then plug it in.
 - Drag N Drop whichever Player you want to use on that board.
 - Unplug board .
 - Build your lightgun. See more here [Fusion Website DIY](https://www.fusionlightguns.com/diy)
 - Secure LED emitters to screen/tv/monitor/whatever.
 - Plug in assembled gun .
 - When gun first plugged in it will auto go into calibrate mode. Calibrate for your screen with [calibrate instructions](#calibration)
+- Download and open GUI if you desire .
 
 ## Parts 
 
@@ -91,21 +92,21 @@ Feel free to mod, fork, create better, complain, reports errors etc.
 - Start --- #1 ---------- Gamepad Start 
 - Select -- #5 ---------- Gamepad Select 
 
-   **Player 2**
+**Player 2**
 
 - A ------- W ------- Gamepad A 
 - B ------- Backspace ------ Gamepad B 
 - C ------- Mouse5 ------ Gamepad Left Bumper
-- Start --- #1 ---------- Gamepad Start 
-- Select -- #5 ---------- Gamepad Select 
+- Start --- #2 ---------- Gamepad Start 
+- Select -- #6 ---------- Gamepad Select 
 
  **Player 3**
 
 - A ------- A ------- Gamepad A 
 - B ------- Page UP ------ Gamepad B 
 - C ------- Mouse5 ------ Gamepad Left Bumper
-- Start --- #1 ---------- Gamepad Start 
-- Select -- #5 ---------- Gamepad Select 
+- Start --- #3 ---------- Gamepad Start 
+- Select -- #7 ---------- Gamepad Select 
 
 
  **Player 4**
@@ -113,8 +114,8 @@ Feel free to mod, fork, create better, complain, reports errors etc.
 - A ------- S ------- Gamepad A 
 - B ------- Page Down ------ Gamepad B 
 - C ------- Mouse5 ------ Gamepad Left Bumper
-- Start --- #1 ---------- Gamepad Start 
-- Select -- #5 ---------- Gamepad Select 
+- Start --- #4 ---------- Gamepad Start 
+- Select -- #8 ---------- Gamepad Select 
 
 
 ## Calibration
@@ -140,41 +141,44 @@ Pause Mode can be exited at anytime by pressing **Pump Button**.
 ## Pause Mode Buttons
 
 Enter Pause Mode:
-- Hold Calibrate for 3 seconds
+- Hold **Calibrate** for 5 seconds
 
 Exit Pause Mode:
-- Pump.
+- Press **Pump** button.
 
 Cancel Calibration:
-- Calibrate Button.
+- Press **Calibrate** Button.
 
 Skip the center calibration:
-- Up Button
+- Press **Pedal** Button
 
 Save preferences to non-volatile memory:
-- Press Start & Select at the same time
+- Press **Start** & **Select** buttons at the same time
 
 Increase IR sensitivity:
-- Press B & Up at the same time.
+- Press **Up** buton.
 
 Decrease IR sensitivity:
-- Press B & Down at the same time.
+- Press **Down** button.
 
 Select a run mode:
 
 Run Mode Normal
-- Press B & Start at the same time.
-- 
+- Press **Left** button.
+
 Average Mode
-- Press B & Select at the same time.
+- Press **Right** button.
 
 Toggle offscreen button mode in software:
-- Press A & Left at the same time
+- Press **Start** button.
+
+Toggle solenoid auto fire speed 
+- Press **Select** button.
 
 Toggle rumble in software:
-- Press A & Up at the same time.
+- Press **A** button.
   
 Toggle solenoid in software:
-- Press A & Down at the same time.
+- Press **B** button.
 
 
