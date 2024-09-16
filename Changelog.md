@@ -33,6 +33,8 @@
 - IMO made pause mode easier to understand and control.
 - Made calibrate hold to activate always.
 - Added general RP2040 layout same as pico. This is to support my LG2040 for time being. Its same pin out & everything as a pico.
+
+
 **Version 2.00**
 - Remapped dpad to up, down, left & right on keyboard by default .
 - Made the pause mode buttons single press instead of combos.
