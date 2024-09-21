@@ -144,13 +144,13 @@ Enter Pause Mode:
 - Hold **Calibrate** for 5 seconds
 
 Exit Pause Mode:
-- Press **Pump** button.
+- Press **Pedal** button.
 
 Cancel Calibration:
 - Press **Calibrate** Button.
 
 Skip the center calibration:
-- Press **Pedal** Button
+- Press **Pump** Button
 
 Save preferences to non-volatile memory:
 - Press **Start** & **Select** buttons at the same time
@@ -166,7 +166,7 @@ Select a run mode:
 Run Mode Normal
 - Press **Left** button.
 
-Average Mode
+Average Modes
 - Press **Right** button.
 
 Toggle offscreen button mode in software:
