@@ -1,4 +1,4 @@
- # P.I.G.S DIY Manual Ver 2.13 #
+ # P.I.G.S DIY Manual Ver 2.3 #
  ## Intro 
  
 P.I.G.S is a open source Pico Infared lightgun system .
@@ -64,7 +64,7 @@ Feel free to mod, fork, create better, complain, reports errors etc.
      - [Aliexpress](https://www.aliexpress.us/item/2255800363581884.html?spm=a2g0o.productlist.main.31.5fbb5705uVfOmJ&algo_pvid=5e3e44d8-eee3-4830-a8fd-5cae76b92e33&aem_p4p_detail=2024050106063318488343800487860009917641&algo_exp_id=5e3e44d8-eee3-4830-a8fd-5cae76b92e33-15&pdp_npi=4%40dis%21USD%210.66%210.66%21%21%210.66%210.66%21%402101ead817145687938005308e7c8a%2110000002851650036%21sea%21US%210%21AB&curPageLogUid=KwYvka6unOI9&utparam-url=scene%3Asearch%7Cquery_from%3A&search_p4p_id=2024050106063318488343800487860009917641_4), [Amazon](https://www.amazon.com/Tactile-Switch-Breakout-Module-Converter/dp/B07YY6VV9Q/ref=sr_1_8?crid=1EM5K5ONZ9NOU&dib=eyJ2IjoiMSJ9.dfU_8mDSc3W-08jjfBsxSNLmiDnGX631haWJq1OH3kj8v6TdSza-vIgSkKGujizkkDOxuXyx8x8WWXUXoNa12zzTVRz7yPEjguQXcZpLNc2IiiTjZ9BltcrTc8xTEeVu6OKLeies_IovWf8CN-s5VuvV1r68pmaBan_IYTGE_yn6aP12nlcyGf1vN_CSJVWvpUAIA2fxDCh9xx1uDLcL-gStQIp-bXQFlgaQj5t3RfY.fUKn-KRqyY08xvITLOAdpzvyeFlfMp6cEl1ls3Jtq8s&dib_tag=se&keywords=5way+tactile+switch&qid=1714568878&sprefix=5+way+tactile+switch%2Caps%2C177&sr=8-8)
 
 ## Pin Outs
-![PICO PINOUT](https://github.com/user-attachments/assets/2802a1c9-61ce-44ab-9f7b-56bff04e6c0d)
+![Pico-Pinout](https://github.com/user-attachments/assets/9325242c-981b-4971-a4d8-2f83646d1fa1)
 
 
 
