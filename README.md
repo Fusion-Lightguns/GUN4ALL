@@ -52,7 +52,7 @@
   - TechnoParrot
 
 ## Prebuilt Users
-- If you got your gun from [Fusion Lightguns](https://www.fusionlightguns.com/) AFTER June 2024, please see [Lightgun Setup](https://www.fusionlightguns.com/setup).
+- If you got your gun from [Fusion Lightguns](https://www.fusionlightguns.com/) AFTER June 2024, please see [Lightgun Setup](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Infared-Gun-System/wiki/Setup).
 
 ## Thanks:
 * SeongGino for a GREAT base to work from.
