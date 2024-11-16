@@ -10,7 +10,7 @@
 
 
 ## Credits/History ##
-- Please see [Credits/History](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Infared-Gun-System/wiki/Credits-History)
+- Please see [Credits/History](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Infared-Gun-System/wiki/Credits)
 
 ## DIY & Changelog ##
 - For DIY instructions please see: [DIY Manual]([https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Gun-System/blob/plus/DIY/ReadMe.md](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Infared-Gun-System/wiki/DIY))
@@ -38,7 +38,3 @@
 ## Setup
 - Please see [Lightgun Setup](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Infared-Gun-System/wiki/Setup).
 
-## Thanks:
-* SeongGino for a GREAT base to work from.
-* Samuel Ballantyne, for his SAMCO project.
-* Prow7, for improving SAMCOs project.
