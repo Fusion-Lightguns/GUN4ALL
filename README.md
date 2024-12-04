@@ -13,7 +13,7 @@
 - Please see [Credits on Wiki](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Infared-Gun-System/wiki/Credits)
 
 ## DIY & Changelog ##
-- For DIY instructions please see: [DIY Manual]([https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Gun-System/blob/plus/DIY/ReadMe.md](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Infared-Gun-System/wiki/DIY))
+- For DIY instructions please see: [DIY on Wiki](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Infared-Gun-System/wiki/DIY))
 - For changelog & prevoius authors changes see [Changelog](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Gun-System/blob/plus/Changelog.md)
 
 ## Features: ##
