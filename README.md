@@ -30,9 +30,10 @@
 - Build/mod videos for retro shells/housings [Fusion Lightguns Youtube](https://www.youtube.com/channel/UCWwdJLmLOawdj0-UQUi_1tA)
 
 ## FYI ##
-- These are Infared Lightguns
-- They use 4 IR LEDs to "emulate" a controller/mouse/keyboard input.
-- These guns work on Windows & Linux.
+- These are "Infared Lightguns"
+- They use 4 IR LEDs for positioning.
+- P.I.G.S act lkke a controller/mouse/keyboard input.
+- These LightGuns work on Windows & Linux.
 - For compatability please see [Compatability on Wiki](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Infared-Gun-System/wiki/Compatibility)
 
 ## Setup
