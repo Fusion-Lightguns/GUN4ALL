@@ -4,7 +4,7 @@
 
 ## Info
 
-- P.I.G.S  is designed to be all in one open source Light Gun eco system. It has [PCBs](https://github.com/Fusion-Lightguns/P.I.G.S-PCBs), [GUI/App](https://github.com/Fusion-Lightguns/P.I.G.S-GUI), prebuilt Light Guns by [Fusion LightGuns](fusionlightguns.com), [DIY instructions]([https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Infared-Gun-System/tree/plus/DIY](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Infared-Gun-System/wiki/DIY), [build videos](https://www.youtube.com/channel/UCWwdJLmLOawdj0-UQUi_1tA), [3D printable lightguns](https://www.thingiverse.com/fusion_lightguns/designs), [3D printable LED cases](https://www.thingiverse.com/thing:6119123), custom boards(LG2040) & more!!!
+- P.I.G.S  is designed to be all in one open source Light Gun eco system. It has [PCBs](https://github.com/Fusion-Lightguns/P.I.G.S-PCBs), [GUI/App](https://github.com/Fusion-Lightguns/P.I.G.S-GUI), prebuilt Light Guns by [Fusion LightGuns](fusionlightguns.com), [DIY instructions](https://github.com/Fusion-Lightguns/P.I.G.S--Pico-Infared-Gun-System/tree/plus/DIY), [build videos](https://www.youtube.com/channel/UCWwdJLmLOawdj0-UQUi_1tA), [3D printable lightguns](https://www.thingiverse.com/fusion_lightguns/designs), [3D printable LED cases](https://www.thingiverse.com/thing:6119123), custom boards(LG2040) & more!!!
 - Designed for multi player useage on many frontends . I have a few setup & test all the time.
 - Designed from over a year of messing with Lightguns, code and parts.
 
