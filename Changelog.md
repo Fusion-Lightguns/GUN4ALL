@@ -40,3 +40,10 @@
 - Made the pause mode buttons single press instead of combos.
 - Fixed misc errors I have found .
 - Remapped `A` and `B` to keyboard buttons.
+
+
+**Version 1.7/1.75**
+- Removed offscreen toggles. THey are on now. 
+- Changed off screen buttons. WHEN AIMING OFF SCREEN Start is now pump and select is pedal.
+- Changed button mapping for easier use.
+- Added more pause mode buttons.
